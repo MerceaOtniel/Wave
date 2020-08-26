@@ -1,0 +1,4 @@
+#Sun May 19 08:29:06 EEST 2019
+base.0=C\:\\Users\\mario\\AndroidStudioProjects\\android-sdk-master\\app-remote-sample\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
